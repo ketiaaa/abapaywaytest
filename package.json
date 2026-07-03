@@ -1,0 +1,20 @@
+{
+  "name": "abapaywaytest",
+  "version": "1.0.0",
+  "description": "Sandbox test project for ABA PayWay QR API integration",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "ketia",
+  "license": "MIT"
+}
